@@ -1,7 +1,9 @@
 # Progress Step HTML
  This is a HTML with Javascript Progress Step Project.
 
- # The Developer
+### [View the demo](https://hafiz6512.github.io/Progress-Step-HTML)
+
+# The Developer
 
 ## Our Website
 ### [DHC](http://diehardcoder.com)
